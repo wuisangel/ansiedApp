@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "792491132975",
+    "project_id": "ansiedapp-f7f6b",
+    "storage_bucket": "ansiedapp-f7f6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792491132975:android:97e17c6518308235fbdeda",
+        "android_client_info": {
+          "package_name": "com.example.ansiedapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792491132975-9j1lcgp3ms09cf0n4jucr4saphp0heit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ansiedapp",
+            "certificate_hash": "11559eb7b98d4807bc92c923afc4505cf5a8d735"
+          }
+        },
+        {
+          "client_id": "792491132975-lotho72mnm4qbmdb1jakf5ph0hj6f43j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ6I122_2Kdpui7k-6sFQDgE3x8izK51E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792491132975-lotho72mnm4qbmdb1jakf5ph0hj6f43j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
